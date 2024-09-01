@@ -1,0 +1,4 @@
+com\demo\ws\SubjectWebService.class
+com\demo\ws\jpa\Subject.class
+com\demo\ws\client\SubjectSoapClient.class
+com\demo\ws\jpa\SubjectPK.class
