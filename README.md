@@ -1,4 +1,4 @@
-# SOAP Web Service for Revolving Credit Line ((Hypothetical))
+# SOAP Web Service for Revolving Credit Line (Hypothetical)
 
 ## Objective
 Develop a SOAP web service to manage revolving credit lines, providing functionalities to interact with entities such as **Credit Line**, **Borrower**, **Lender**, and **Subject**. The project includes the implementation of SOAP clients and utilizes **JPA**, **JPQL**, and **EJB** for persistence management and business logic.
